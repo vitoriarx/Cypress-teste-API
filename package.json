@@ -1,0 +1,17 @@
+{
+  "name": "typeformapi",
+  "version": "1.0.0",
+  "description": "Sample project to experiment with Typeform's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4",
+    "cypress-commands": "^3.0.0"
+  }
+}
