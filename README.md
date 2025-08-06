@@ -27,7 +27,7 @@ Desenvolver e praticar testes de API utilizando Cypress, com foco em:
 ---
 
 ## Estrutura dos testes
-
+```bash
 cypress/
 ├── e2e/
 │ ├── login.cy.js → login com sucesso e falha
@@ -35,7 +35,7 @@ cypress/
 │ └── usuarios.cy.js → listagem de usuários com validação de resposta
 ├── fixtures/ → (reservado para dados simulados)
 ├── support/ → (possível para comandos customizados futuros)
-
+```
 yaml
 Copiar
 Editar
